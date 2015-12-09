@@ -1,0 +1,21 @@
+h1{
+	color:red;
+
+}
+
+h1,p{
+	font-family: sans-serif;
+
+}
+
+body{
+	background-color: #ffff83;
+	text-align: center;
+
+}
+
+ul{
+	text-align: center;
+	text-decoration: inherit;
+
+}
